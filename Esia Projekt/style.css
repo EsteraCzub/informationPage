@@ -1,0 +1,25 @@
+body {
+    background: #E5E5E5;
+    font-family: "Montserrat", "sans-serif";
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    justify-content: center;
+    margin: 0 auto;
+    background: #FFFFFF;
+}
+
+li {
+    color:green;
+}
+
+h2 {
+    color: red;
+}
+
+.descryption {
+    color: darkblue;
+}
