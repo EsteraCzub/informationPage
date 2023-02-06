@@ -13,24 +13,52 @@ body {
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
-.mainDescryption {
-    background: red;
-    margin: 20px 40px 20px 40px;
-    padding: 40px 20px 40px 20px;
+aside {
+    width: 370px;
+    background: #1E2939;
 }
 
-.block2 {
-    margin: 10px;
-    padding: 50px;}
-
-li {
-    color:green;
+.cvPhoto {
+    margin-top: 40px;
 }
 
-h2 {
-    color: red;
+.headerSecondary {
+    color: #FFFFFF;
 }
 
-.descryption {
-    color: darkblue;
+.contactLinks {
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.listSecondary {
+    color: #FB6D3A;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.listSecondaryItem {
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.contactBlock {
+    margin-top: 51px;
+    margin-left: 40px;
+}
+
+.techSkillsBlock {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.softSkillsBlock {
+    margin-top: 44px;
+    margin-left: 40px;
 }
