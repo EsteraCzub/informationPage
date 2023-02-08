@@ -70,6 +70,9 @@ main {
 .mainDescription {
   width: 400px;
 }
+.workExperience {
+  width: 525px;
+}
 
 .jobTitle {
   font-weight: 700;
