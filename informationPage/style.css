@@ -18,15 +18,15 @@ aside {
   background: #1e2939;
 }
 
-.cvPhoto {
+.cv-photo {
   margin-top: 40px;
 }
 
-.headerSecondary {
+.header-secondary {
   color: #ffffff;
 }
 
-.contactLinks {
+.contact-links {
   color: #ffffff;
   font-size: 14px;
   line-height: 24px;
@@ -36,29 +36,29 @@ aside {
   font-weight: 700;
 }
 
-.listSecondary {
+.list-secondary {
   color: #fb6d3a;
   padding-left: 0;
   list-style-position: inside;
 }
 
-.listSecondaryItem {
+.list-secondary-item {
   color: #ffffff;
   font-size: 14px;
   line-height: 24px;
 }
 
-.contactBlock {
+.contact-block {
   margin-top: 51px;
   margin-left: 40px;
 }
 
-.techSkillsBlock {
+.tech-skills-block {
   margin-top: 47px;
   margin-left: 40px;
 }
 
-.softSkillsBlock {
+.soft-skills-block {
   margin-top: 44px;
   margin-left: 40px;
 }
@@ -67,14 +67,14 @@ main {
   padding: 102px 88px 102px 88px;
 }
 
-.mainDescription {
+.main-description {
   width: 400px;
 }
-.workExperience {
+.work-experience {
   width: 525px;
 }
 
-.jobTitle {
+.job-title {
   font-weight: 700;
   font-size: 14px;
   line-height: 17px;
@@ -99,7 +99,7 @@ h1 {
   margin-bottom: 51px;
 }
 
-.listPrimary {
+.list-primary {
   font-weight: 700;
   font-size: 14px;
   line-height: 24px;
@@ -107,7 +107,7 @@ h1 {
   padding-left: 0;
 }
 
-.listPrimaryItem {
+.list-primary-item {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
@@ -115,14 +115,14 @@ h1 {
   color: #595959;
 }
 
-.headerPrimary {
+.header-primary {
   font-weight: 700;
   font-size: 22px;
   line-height: 27px;
   margin-bottom: 12px;
 }
 
-.jobName {
+.job-name {
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
@@ -132,14 +132,14 @@ h1 {
   color: #fb6d3a;
 }
 
-.jobDate {
+.job-date {
   font-weight: 400;
   font-size: 12px;
   line-height: 15px;
   color: #a8a8a8;
 }
 
-.jobList {
+.job-list {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
@@ -148,7 +148,7 @@ h1 {
   padding-left: 0;
 }
 
-.educationPlace {
+.education-place {
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
@@ -156,7 +156,7 @@ h1 {
   margin-top: 12px;
 }
 
-.educationSpecjalty {
+.education-specjalty {
   font-weight: 700;
   font-size: 14px;
   line-height: 17px;
@@ -166,6 +166,6 @@ h1 {
   color: #000000;
 }
 
-.educationDiv {
+.education-div {
   margin-top: 43px;
 }
